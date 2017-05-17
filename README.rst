@@ -1,7 +1,7 @@
 .. _llabs_doc:
 
 #####################################
-``LLabs`` - Desafio Backend luizalabs
+``llabs`` - Desafio Backend luizalabs
 #####################################
 
 
