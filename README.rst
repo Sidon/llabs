@@ -9,7 +9,7 @@
 
      API desenvolvida em python para coletar informações de usuários do facebook, armazenar em um banco de dados, fornecer um serviço de acesso e fazer logging das ações.
 
-     A aplicação foi hospedada no `Heroku <http://www.heroku.com>`_ . `Clique aqui <https://sdnlabs.herokuapp.com>`_ para testa-la.
+     A aplicação foi hospedada no `Heroku <http://www.heroku.com>`_ . Para testá-la, `Clique aqui <https://sdnlabs.herokuapp.com>`_ .
 
 
     :Data: **17/05/2017**
