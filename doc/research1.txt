@@ -1,0 +1,37 @@
+
+Short lived Token
+EAAELDZCBSw2sBAIEtJ7qPZCCF6XrzeIOHZCETZCBwNh8tygEg7H0mUD52EyUFQ0ZBAenIAbHfZBliSbZCuZCZAtoMz9Txt9cq4f9IZBeBCyZCILZB44ZCNXkYvy05UPeX7Dcx6CrUQ5lhEjjhZBV9Q878ZChhZCRz8UxHV1ZB4v1eVUlZCUTbqWbWbbK3iFoty
+https://graph.facebook.com/v2.8/oauth/access_token?grant_type=fb_exchange_token&client_id=293638061081451&client_secret=2d5792943cbf1aca7761e208b0c83f92&fb_exchange_token=EAAELDZCBSw2sBAIEtJ7qPZCCF6XrzeIOHZCETZCBwNh8tygEg7H0mUD52EyUFQ0ZBAenIAbHfZBliSbZCuZCZAtoMz9Txt9cq4f9IZBeBCyZCILZB44ZCNXkYvy05UPeX7Dcx6CrUQ5lhEjjhZBV9Q878ZChhZCRz8UxHV1ZB4v1eVUlZCUTbqWbWbbK3iFoty
+
+
+Token long live (2 months) Sidon:
+No arquivo llabs.json.zip em llabs.config
+
+
+Perfis
+
+Eduardo
+100001155076712
+
+Suzana
+100001705068754
+
+André
+100001384423417
+
+Marcio
+100011548502686
+
+Ray
+100000384025121
+
+Ryan
+100001159457101
+
+Yan
+100000582100470
+
+Emyli
+100003305273819
+
+----------------------------------------------------------
